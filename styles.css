@@ -22,13 +22,11 @@ body{
 }
 .header{
   display: flex;
-  /* border: solid red; */
   justify-content: space-between;
 }
 .links{
   display: flex;
   gap: 25px;
-  /* border: solid red; */
 }
 a{
   text-decoration: none;
@@ -37,11 +35,9 @@ a{
   font-size: 48px;
   color:#F9FAF8;
   font-weight: 900;
-  /* border: solid red; */
   width: 300px;
 }
 .subtext{
-  /* border: solid red; */
   width: 400px;
   padding: 3px 0 15px;
 }
@@ -100,4 +96,25 @@ button{
   display: flex;
   justify-content: space-around;
   text-align: center;
+}
+
+.container-ash{
+  background-color: #E5E7EB;
+  font-size: 36px;
+  font-weight: 300;
+  color: #1F2937;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px;
+}
+.quote{
+  width: 750px;
+}
+.writer{
+  font-weight: 900;
+  font-size:26px;
+  width: 750px;
+  /* Or, text-align: end; */
+  text-align: right;
 }
