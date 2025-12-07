@@ -72,3 +72,32 @@ button{
 .container-black button{
   color: white;
 }
+.info{
+  font-size: 36px;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 0;
+}
+.square{
+  border: 5px solid royalblue;
+  width: 162px;
+  height: 162px;
+  border-radius: 10px;
+}
+.text{
+  width: 158px;
+  height: 158px;
+  font-size: 18px;
+  margin: 10px;
+}
+.square-box{
+  display: flex;
+  justify-content: space-around;
+}
+.text-box{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
