@@ -106,7 +106,7 @@ button{
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 80px;
+  padding: 100px;
 }
 .quote{
   width: 750px;
