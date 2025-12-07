@@ -80,22 +80,19 @@ button{
   border: 5px solid royalblue;
   width: 162px;
   height: 162px;
-  border-radius: 10px;
+  border-radius: 15px;
 }
 .text{
   width: 158px;
   height: 158px;
   font-size: 18px;
   margin: 10px;
-}
-.square-box{
-  display: flex;
-  justify-content: space-around;
-}
-.text-box{
-  display: flex;
-  justify-content: space-around;
   text-align: center;
+}
+.box{
+  display: flex;
+  justify-content: center;
+  gap: 40px;
 }
 
 .container-ash{
