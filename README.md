@@ -22,17 +22,21 @@ This is a solution to the **Landing Page** project from the [Foundations Course]
 - Visual consistency using colors and spacing
 - Organized file structure with `index.html` and `index.css`
 
-# Challenges
+## Objective
+Recreate a landing page from a provided design (2 images).
 
-### Challenege 1
-[Full Instructions Here](https://www.theodinproject.com/lessons/foundations-landing-page)
+## Instructions
+- **HTML first**, then CSS.
+- Use **Flexbox** for layout.
+- **Not responsive** (standard screen only).
+- Custom / Free images (e.g., Unsplash, Pexels).
+- Customization allowed (texts, colours, images).
 
-Output should look like [pic1](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png) following [pic2](https://cdn.statically.io/gh/TheOdinProject/curriculum/02f3babb44a3d30dccdf6ca30283ac64ec02abbd/foundations/html_css/flexbox/project-landing-page/imgs/02.png)
-
-### Challenge 2 (Future Work)
-***Make up a business and personalize this page.***
-
-Substitute your own content into this design. The images have some meaningless dummy content, but if you want to make up a business and personalize this page, please feel free to do so! Insert actual images in the placeholders.
+## Steps
+1. Create a GitHub repository.
+2. Structure the HTML section by section.
+3. Style with CSS.
+4. Deploy via GitHub.
 
 ## 🎯 Project Requirements (met)
 
