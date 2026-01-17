@@ -123,10 +123,10 @@ button{
   font-weight: 700;
 }
 
-.square-one,
-.square-two,
-.square-three,
-.square-four{
+.img-one,
+.img-two,
+.img-three,
+.img-four{
   border: 5px solid royalblue;
   width: 162px;
   height: 162px;
@@ -142,15 +142,15 @@ button{
   margin: 10px;
   text-align: center;
 }
-.box{
+.col-container{
   display: flex;
   justify-content: space-around;
   /* border:3px solid #FFC800; */
 }
 
-.square-box-one,
-.square-box-two,
-.square-box-three,
-.square-box-four{
+.col-one,
+.col-two,
+.col-three,
+.col-four{
   /* border:3px solid #FFC800; */
 }
