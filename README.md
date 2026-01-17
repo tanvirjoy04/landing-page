@@ -53,3 +53,10 @@ Recreate a landing page from a provided design (2 images).
 ├── index.html
 
 └── styles.css
+
+## Creative Projects I've created based on this
+- [Hometown Homepage](https://github.com/tanvirjoy04/hometown-homepage)
+
+🎉, 👏, 🎊, 🎈
+
+Congratulations to me.
