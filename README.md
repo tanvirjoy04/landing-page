@@ -1,6 +1,6 @@
 # Landing Page Project
 
-This is a solution to the **Landing Page** project from the [Foundations Course](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page) on [The Odin Project](https://www.theodinproject.com/). The goal of this project was to recreate a basic landing page layout using **custom HTML and CSS**, with a focus on **Flexbox layout**.
+My First project, [Landing Page project](](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page)) from the **Foundations Course** on [The Odin Project](https://www.theodinproject.com/). The goal of this project was to recreate a basic landing page layout using **custom HTML and CSS**, with a focus on **Flexbox layout**.
 
 ## 🔧 Built With
 
